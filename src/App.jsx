@@ -1,5 +1,5 @@
 
-import { BrowserRouter as Router } from 'react-router-dom'
+import { HashRouter as Router } from 'react-router-dom'
 import './App.css'
 import { darkTheme , lightTheme } from './utils/Themes'
 import Contact from './Components/Contact/Contact'
