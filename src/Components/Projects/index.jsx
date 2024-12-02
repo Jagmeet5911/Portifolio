@@ -105,7 +105,7 @@ const Projects = ({openModal, setOpenModal}) => {
     <Container id = "projects">
         <Wrapper>
             <Title>Projects</Title>
-            <Desc>I have worked on a wide range of projects.from making AI using python, doing analysis to making web apps.Here are some of my Projects. </Desc>
+            <Desc>I have worked on a wide range of projects.from making AI using python, doing analysis to making web apps like my portifolio.Here are some of my Projects. </Desc>
             <ToggleButtonGroup>
                 {toggle ==='all ' ?
                 <ToggleButton active value="all" onClick={()=> setToggle('all')}>All</ToggleButton>

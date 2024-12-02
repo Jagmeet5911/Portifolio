@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Jagmeet5911",
     resume:
-      "https://drive.google.com/file/d/1gv2xjxD8WPU9OD55v1Ngl54kkEEEZm6S/view?usp=drive_link",
+      "https://drive.google.com/file/d/1XhK_It2pXoLAK9WI-hQugQ3Bk4fxJEVr/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/jagmeet-singh5911/",
     twitter: " ",
     insta: " ",
@@ -110,50 +110,40 @@ export const Bio = {
       
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-      role: "Frontend Engineer Intern",
-      company: "Neurobit",
-      date: "June 2023 - Present",
-      desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+      img: "https://lh3.googleusercontent.com/j7KFpuJly-FpHGpK5XTcmwX5iPodOKzAKUgFGqqFnt7F2p3jBgmUXVDP9CXPl7TN4Y9oXJTnzIDlsZOMZ6cynvw=w16383",
+      role: "Data Analyst Intern",
+      company: "Candiclie Consultancy",
+      date: "August 2024 - October 2024",
+      desc: "Gathering and visualizing data from various sources, ensuring accuracy and completeness.",
       skills: [
-        "ReactJS",
-        "Redux",
-        "NodeJs",
-        "Material UI",
-        "HTML",
-        "CSS",
-        "JavaScript",
+        "Excel",
+        "SQL",
+        "Python",
+        "Power BI",
+        
       ],
-      doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-      role: "Fullstack Externship",
-      company: "Flipr",
-      date: "June 2023 - July 2023",
-      desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+      img: "https://www.bing.com/images/search?view=detailV2&ccid=UQ33K9sY&id=B4C3158869CCA7F604B785B91A7A510A778B853B&thid=OIP.UQ33K9sYmuYWP3p7atgEEQHaHa&mediaurl=https%3a%2f%2fyt3.googleusercontent.com%2f7kCYJApUH8qEq3lvn4ZXQLr9rS0gu7A69Gdhp3XsKsbSEG7gQLlDW_qY6tpTqzqWzE6QWeYXbQ%3ds900-c-k-c0x00ffffff-no-rj&exph=900&expw=900&q=mentorness&simid=608052672983737460&FORM=IRPRST&ck=F8CAEF3EE9C33C212C2A73A704DC66C5&selectedIndex=7&itb=0",
+      role: "Data Analyst Intern",
+      company: "Mentorness",
+      date: "June 2024 - July 2024",
+      desc: "I prepared and presented detailed topics related to data analysis, showcasing my understanding and communication skills.",
       skills: [
-        "ReactJS",
-        "Redux",
-        "NodeJs",
-        "Material UI",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Docker",
-        "AWS",
-        "MongoDB",
+       "Excel",
+        "SQL",
+        "Python",
+        "Power BI",
       ],
     },
     {
       id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-      role: "Open Source Contributor ",
-      company: "GirlScript Summer of Code",
-      date: "May 2023 - Present",
-      desc: "Contributing to different open-source projects and learn from industry experts",
-      doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
+      img: "https://www.bing.com/images/search?view=detailV2&ccid=0qLBZDwj&id=8CB88132151F44B756ACA253FE56925AABD73AE1&thid=OIP.0qLBZDwjWe0jcif4xffC4AHaD4&mediaurl=https%3a%2f%2flinktr.ee%2fog%2fimage%2ffreepadsforindia.jpg&exph=630&expw=1200&q=free+pads+for+india&simid=608026327599970613&FORM=IRPRST&ck=9F4BDA1C0C09EAA52A10294C444D4D4D&selectedIndex=4&itb=0",
+      role: "Fund Raising Intern ",
+      company: "Free Pads for India (NGO)",
+      date: "JULY 2024-AUGUST 2024",
+      desc: "As a fund-raising intern, the responsibilities include spreading awareness ",
     },
   
     
@@ -193,69 +183,47 @@ export const Bio = {
   export const projects = [
     {
       id: 9,
-      title: "Trackify",
-      date: "Jun 2023 - Jul 2023",
+      title: "Chatbot and Desktop Assistant Using Python ",
+      
       description:
-        "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-      image:
-        "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+          "The project is a multifunctional chatbot and desktop assistant developed using Python and AI technologies. ",
+      
       tags: [
-        "Docker",
-        "AWS",
-        "DuckDNS",
-        "Eslint",
-        "Husky",
-        "CI/CD",
-        "React Js",
-        "MongoDb",
-        "Node Js",
-        "Express Js",
-        "Redux",
+        "Python",
+        "AI",
+        "PyQT5",
+        "SpeechRecognition",
+        "ML",
+        "Web Scrapping",
+        "API",
+        
       ],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Trackify",
-      webapp: "https://trackify.duckdns.org",
+      category: "AI app",
+     
     },
     {
       id: 0,
-      title: "Podstream",
-      date: "Apr 2023 - May 2023",
+      title: "YouTube Song Analysis with Power BI ",
+     
       description:
-        "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-      image:
-        "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-      tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Podstream",
-      webapp: "https://podstream.netlify.app/",
-      member: [
-        {
-          name: "Rishav Chanda",
-          img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-          linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-          github: "https://github.com/rishavchanda/",
-        },
-        {
-          name: "Upasana Chaudhuri",
-          img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-          linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-          github: "https://github.com/upasana0710",
-        },
-      ],
+          " The project involved gathering YouTube song data, cleaning and transforming raw data to create a structured.",
+      
+      tags: ["Python", "Web Scraping", "Data cleaning", "Excel"],
+      category: "AI app",
+      
+      
     },
     
     {
       id: 8,
-      title: "Face Recognition",
-      date: "Jan 2021",
+      title: "Hotel Reservation Analysis with SQL   ",
+      
       description:
-        "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-      image:
-        "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-      tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-      category: "machine learning",
-      github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-      webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+          "In this project, I conducted an in-depth analysis of a hotel reservation dataset using SQL.",
+        
+      tags: ["Python", "SQL", "Excel"],
+      category: "All",
+    
     },
   ];
   
