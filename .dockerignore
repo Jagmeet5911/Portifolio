@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.git
+.gitignore
+.claude
+.env
+.env.*
+!.env.example
+assets-src
+scripts
+Dockerfile
+compose.yaml
+README.md
+AUDIT.md
+*.log
+.DS_Store

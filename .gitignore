@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# Local-only: internal audit notes (private client details) and editor/agent config
+AUDIT.md
+.claude/
